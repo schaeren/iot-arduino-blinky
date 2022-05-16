@@ -1,13 +1,9 @@
 # iot-arduino-blinky
 
-Target system: Arduino Uno
+Sample code used for article 'Arduino – Software development with Visual Studio Code and PlatformIO, Debugging'
 
-MCU: ATmega 328P
+Target system: Arduino Und and Arduino Mega 2560
 
-Required VS Code extensions:
-- PlatformIO
+Development environment: Visual Studio Code with PlatformIO.
 
-Optional VS Code extensions:
-- C/C++
-
-See allso: https://www.schaerens.ch/arduino-development-with-visual-studio-code-and-platformio-debugging
+Documentation: https://www.schaerens.ch/iot-arduino-development-with-visual-studio-code-and-platformio-debugging/
